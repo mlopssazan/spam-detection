@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: fraud-detection-container
-        image: meharsazan1/fraud-detection-api_1
+        image: meharsazan1/new
         ports:
         - containerPort: 8000
